@@ -1,0 +1,4 @@
+ไฟล์ที่ต้องมี,ชื่อบน GitHub
+Dashboard,index.html
+Proxy,api/fpl/[...path].js
+(แนะนำ),vercel.json
